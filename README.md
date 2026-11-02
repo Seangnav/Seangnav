@@ -50,3 +50,18 @@ and accessible
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/sean-vang-578912305/) 
 - Email: sean.vang06@gmail.com 
 - GitHub: [My GitHub](https://github.com/Seangnav)
+
+
+
+## Certifications 
+
+- Cisco Certified Support Technician (IT Support) 
+
+## A Little More About Me 
+
+- Passionate about technology and continuous learning (especially AI). 
+- Enjoy exercising and watching movies! 
+
+--- 
+
+Thanks for visiting my profile!
