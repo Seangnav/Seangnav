@@ -42,3 +42,11 @@ and accessible
 - Exploring artificial intelligence and machine learning through hands-on projects as a AI Fellow with Break Through Tech
 
 - Expanding my knowledge of cloud computing, software development, and data engineering.
+
+
+
+## Connect With Me 
+
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/sean-vang-578912305/) 
+- Email: sean.vang06@gmail.com 
+- GitHub: [My GitHub](https://github.com/Seangnav)
