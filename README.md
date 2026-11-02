@@ -1,4 +1,4 @@
-# Hi, I'm Sean! Welcome to my profile!
+# Hello, I'm Sean! Welcome to my Github profile!👋
 
 I'm an aspiring technology professional interested in
 software development, data analytics, and artificial intelligence.
