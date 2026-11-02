@@ -1,4 +1,4 @@
-## Hi there, I'm Sean👋
+# Hi, I'm Sean! Welcome to my profile!
 
 I'm an aspiring technology professional interested in
 software development, data analytics, and artificial intelligence.
@@ -65,3 +65,5 @@ and accessible
 --- 
 
 Thanks for visiting my profile!
+
+
