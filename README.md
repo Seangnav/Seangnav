@@ -34,3 +34,11 @@ and accessible
 - Data Analytics
 - Artificial Intelligence
 - Machine Learning
+
+
+
+## Current Projects & Learning
+
+- Exploring artificial intelligence and machine learning through hands-on projects as a AI Fellow with Break Through Tech
+
+- Expanding my knowledge of cloud computing, software development, and data engineering.
