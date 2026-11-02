@@ -8,3 +8,29 @@ and building solutions that make information more useful
 and accessible
 
 
+## Technical Skills
+
+**Programming Languages:**
+- Python
+- Java
+- SQL
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+**Tools & Technologies:**
+- Git and GitHub
+- Visual Studio Code
+- Tableau
+- Power BI
+- Microsoft Excel
+- Palantir Foundry
+- Azure DevOps
+
+**Areas of Interest:**
+- Software Development
+- Business Intelligence
+- Data Analytics
+- Artificial Intelligence
+- Machine Learning
